@@ -1,0 +1,75 @@
+.header {
+    width: 555px;
+    padding: 20px 0px;
+    margin: 40px auto;
+}
+.header__link {
+    margin: 0 35px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #873bb7;;
+}
+.main{
+    border: 1px solid white;
+    width: 906px;
+    margin: 0 auto;
+}
+.card{
+    width: 400px;
+    display: inline-block;
+    margin: 130px 15px;
+}
+.card__img{
+    margin-bottom: 62px;
+}
+.card__text-1{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #f02261;
+}
+.card__text-3 { 
+    font-family: 'Playfair Display'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 14px; 
+    line-height: 19px;   
+    color: #848484; 
+}
+.card__text-2 {
+    font-family: 'Playfair Display'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 30px; 
+    line-height: 40px; 
+    color: #006eff; 
+} 
+.button {
+    cursor: pointer;
+    padding: 20px 48px;
+    margin: 0 auto;
+    width: 68px;
+    border: 1px solid #626262;
+    font-family: 'Playfair Display'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 14px; 
+    line-height: 19px; 
+    color: #f02261;
+}
+.main__heade{
+    margin: 0 35px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #f02261;
+}
